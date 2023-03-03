@@ -1,10 +1,10 @@
 # mock-portfolio
 
-Data Science Portfolio
+# Data Science Portfolio
 
 A collection of selected data science projects to demonstrate skill sets and knowledge
 
-Contents
+## Contents
 
     Python:
     
@@ -21,6 +21,13 @@ In Progress
 New and ongoing projects
 Machine learning projects
 Other application + visualization tools
+
+- Personal Website
+- Blog
+- AI website 1
+- AI website 2
+- App Streamlit 1
+- App Streamlit 2
 
 
 Under Construction:🚧
