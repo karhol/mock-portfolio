@@ -14,7 +14,7 @@ A collection of selected data science projects to demonstrate skill sets and kno
     
     SQL: Examples of executing and formulating SQL queries for business cases.
     
-    Tableau:
+    Tableau Dashboard:
     
     PythonWebScraping: Simple web scraping example using Python's beautifulsoup
     
