@@ -6,7 +6,11 @@ A collection of selected data science projects to demonstrate skill sets and kno
 
 ## Contents
 
-    Python:
+    Python Projects: 
+  
+        * Tabular
+        * TimeSeries
+        * Image Classification
     
     SQL: Examples of executing and formulating SQL queries for business cases.
     
